@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBBiblioteca", "MongoDBBiblioteca\MongoDBBiblioteca.csproj", "{F04565B2-9D1A-43F5-9214-E0A231C03A9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04565B2-9D1A-43F5-9214-E0A231C03A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04565B2-9D1A-43F5-9214-E0A231C03A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04565B2-9D1A-43F5-9214-E0A231C03A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04565B2-9D1A-43F5-9214-E0A231C03A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {429E2E98-F102-49F9-8D32-D5EC71388DFC}
+	EndGlobalSection
+EndGlobal
